@@ -1,0 +1,17 @@
+#dice-game {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#dice-image {
+    width: 100px;
+    height: 100px;
+}
+
+#roll-dice {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: lightgreen;
+    border: none;
+    cursor: pointer;
+}
